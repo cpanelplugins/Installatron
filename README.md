@@ -1,4 +1,6 @@
-# Installatron
+# What's new in Installatron Plugin 9?
+
+Installatron Plugin 9 introduces great new features like integrated application changelogs, remote and automatic backups, improved WordPress integration, and an enhanced administrative panel with multi-server syncing, impersonation, and improved email support. The end result is the world's most advanced web application automation experience — try the 45-day free trial today and see for yourself!
 
 Installatron Plugin is installed as a plugin on supported web hosting control panel systems. To download and install on a server, select the control panel installed below.
 
